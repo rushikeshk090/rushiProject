@@ -8,6 +8,7 @@ public class NewSpringProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NewSpringProjectApplication.class, args);
+		System.out.prientln("rushikesh");
 	}
 
 }
